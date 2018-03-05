@@ -1,0 +1,5 @@
+CS491-Project1  Andrew Stere
+
+Run "python project1". Code will create an output.txt file that contains the
+top 10 most viewed videos that contain the keyword "Landslide" that were
+published within the past 24 hours.

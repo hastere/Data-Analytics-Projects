@@ -1,0 +1,15 @@
+cs491-project3 by Andrew Stere
+
+Usage - Run dta.py using python dta.py. Ensure that GoogleNews-vectors-negative300.bin
+        is in the local directory, along with sample_train.txt and eval.txt.
+        dta.py will create corresponding .arff files for sample_train and eval.
+
+        Run Weka.java. Be sure you have weka installed on your computer
+        It will take the .arff files generated and use the following:
+        - A SVM model
+        - A logarithmic regression model
+        - A Naive Baines model
+        Each model will create their own .model files, as well as a .model.txt file
+        with the output of each. additionally a compare.txt is generating comparing
+        the False positive/negative and True positive/negative results for each as
+        well as other metrics such as precision, recall, and F1-Scores.

@@ -1,0 +1,5 @@
+CS491-Project2  Andrew Stere
+
+Run "python project2". Code will create sample twitter's datastream for 10 minutes
+and create an output.txt file that contains the top 10 most tweeted hashtags
+from that period.

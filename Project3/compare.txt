@@ -1,0 +1,9 @@
+Model Type:	True Positives	True Negatives	False Positives	False Negatives
+SMO:			861.0		31.0		95.0		1.0
+Log Regression:	846.0		85.0		41.0		16.0
+Naive Baines:	790.0		109.0		17.0		72.0
+
+Model Type: Precision	Recall	F1-score
+SMO:			0.9006276150627615		 0.9988399071925754		0.9471947194719472
+Log Regression:	0.9537767756482526		0.9814385150812065		0.967409948542024
+Naive Baines:	0.9789343246592317		0.9164733178654292		 0.9466746554823248
